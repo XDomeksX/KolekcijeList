@@ -1,0 +1,12 @@
+D:\Visual Studio\C#\KolekcijeLists\KolekcijeLists\bin\Debug\KolekcijeLists.exe.config
+D:\Visual Studio\C#\KolekcijeLists\KolekcijeLists\bin\Debug\KolekcijeLists.exe
+D:\Visual Studio\C#\KolekcijeLists\KolekcijeLists\bin\Debug\KolekcijeLists.pdb
+D:\Visual Studio\C#\KolekcijeLists\KolekcijeLists\obj\Debug\KolekcijeLists.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\KolekcijeLists\KolekcijeLists\obj\Debug\KolekcijeLists.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\C#\KolekcijeLists\KolekcijeLists\obj\Debug\KolekcijeLists.Form1.resources
+D:\Visual Studio\C#\KolekcijeLists\KolekcijeLists\obj\Debug\KolekcijeLists.Properties.Resources.resources
+D:\Visual Studio\C#\KolekcijeLists\KolekcijeLists\obj\Debug\KolekcijeLists.csproj.GenerateResource.cache
+D:\Visual Studio\C#\KolekcijeLists\KolekcijeLists\obj\Debug\KolekcijeLists.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\KolekcijeLists\KolekcijeLists\obj\Debug\KolekcijeLists.exe
+D:\Visual Studio\C#\KolekcijeLists\KolekcijeLists\obj\Debug\KolekcijeLists.pdb
+D:\Visual Studio\C#\KolekcijeLists\KolekcijeLists\obj\Debug\Kolekcija_List.Form1.resources
